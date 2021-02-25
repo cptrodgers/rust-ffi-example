@@ -1,0 +1,15 @@
+/Users/rodgers/Working/rust-ffi-example/dotnet/bin/Debug/net5.0/dotnet.deps.json
+/Users/rodgers/Working/rust-ffi-example/dotnet/bin/Debug/net5.0/dotnet.runtimeconfig.json
+/Users/rodgers/Working/rust-ffi-example/dotnet/bin/Debug/net5.0/dotnet.runtimeconfig.dev.json
+/Users/rodgers/Working/rust-ffi-example/dotnet/bin/Debug/net5.0/dotnet.dll
+/Users/rodgers/Working/rust-ffi-example/dotnet/bin/Debug/net5.0/ref/dotnet.dll
+/Users/rodgers/Working/rust-ffi-example/dotnet/bin/Debug/net5.0/dotnet.pdb
+/Users/rodgers/Working/rust-ffi-example/dotnet/obj/Debug/net5.0/dotnet.csprojAssemblyReference.cache
+/Users/rodgers/Working/rust-ffi-example/dotnet/obj/Debug/net5.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodgers/Working/rust-ffi-example/dotnet/obj/Debug/net5.0/dotnet.AssemblyInfoInputs.cache
+/Users/rodgers/Working/rust-ffi-example/dotnet/obj/Debug/net5.0/dotnet.AssemblyInfo.cs
+/Users/rodgers/Working/rust-ffi-example/dotnet/obj/Debug/net5.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/rodgers/Working/rust-ffi-example/dotnet/obj/Debug/net5.0/dotnet.dll
+/Users/rodgers/Working/rust-ffi-example/dotnet/obj/Debug/net5.0/ref/dotnet.dll
+/Users/rodgers/Working/rust-ffi-example/dotnet/obj/Debug/net5.0/dotnet.pdb
+/Users/rodgers/Working/rust-ffi-example/dotnet/obj/Debug/net5.0/dotnet.genruntimeconfig.cache
